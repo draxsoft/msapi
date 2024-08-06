@@ -1,0 +1,16 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Distribution files
+dist/
+build/
+
+# Sensitive information
+.pypirc
+*.env
+.github
